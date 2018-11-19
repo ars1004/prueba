@@ -1,3 +1,3 @@
 # prueba
-cambio 1
-cambio2
+- cambio 1
+- cambio 2
